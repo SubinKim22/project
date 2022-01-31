@@ -11,3 +11,4 @@
 * danawa : 크롤링 및 시각화
 * machine_learning_breast_cancer : 내장데이터 위스콘신 유방암 데이터를 활용한 머신러닝 기초 실습
 
+* wine : 와인 품질 분류 
