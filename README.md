@@ -13,4 +13,4 @@
 
 * wine : 와인 품질 분류 
 
-- bike : 따릉이 데이터 (~grid search), 결측치 보간법
+- bike : 따릉이 데이터 (결측치 보간법-interpolate)
