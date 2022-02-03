@@ -10,7 +10,7 @@
 ## Project 내용
 * danawa : 크롤링 및 시각화
 * machine_learning_breast_cancer : 내장데이터 위스콘신 유방암 데이터를 활용한 머신러닝 기초 실습
-
 * wine : 와인 품질 분류 
+* wine_team_project : 와인 품질 분류(팀 간이 프로젝트. 데이콘에 제출하면서 점수 확인)
 
 - bike : 따릉이 데이터 (결측치 보간법-interpolate)
