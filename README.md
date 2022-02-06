@@ -15,3 +15,5 @@
 
 - bike : 따릉이 데이터 (결측치 보간법-interpolate)
 - rice : Kaggle 쌀 데이터 분류
+
+* Seoul_bike : 서울 자전거 데이터(통계학, 검정, 회귀)
