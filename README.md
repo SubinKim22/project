@@ -17,4 +17,4 @@
 - rice : Kaggle 쌀 데이터 분류
 
 * Seoul_bike : 서울 자전거 데이터(통계학, 검정, 회귀)
-* encar : 엔카 자동차 추천시스템 (크롤링,CF-KNN)
+* encar : 엔카 자동차 추천시스템 (크롤링,CF-KNN,CF-MF,surprise)
