@@ -18,4 +18,4 @@
 
 * Seoul_bike : 서울 자전거 데이터(통계학, 검정, 회귀)
 * encar : 엔카 자동차 추천시스템 (크롤링,CF-KNN,CF-MF,surprise)
-* fifa22 : 피파22 선수 데이터 추천시스템(CBF)
+* fifa22 : Kaggle 피파22 선수 데이터 추천시스템(CBF) - 가중평균 새로운 연구 필요
