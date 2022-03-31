@@ -8,18 +8,37 @@
 
 
 ## Project 내용
-* danawa : 크롤링 및 시각화
-* machine_learning_breast_cancer : 내장데이터 위스콘신 유방암 데이터를 활용한 머신러닝 기초 실습
-* wine : 와인 품질 분류 
-* wine_team_project : 와인 품질 분류(팀 간이 프로젝트. 데이콘에 제출하면서 점수 확인)
+* 개인 프로젝트
+  * danawa : 크롤링 및 시각화
+  * machine_learning_breast_cancer : 내장데이터 위스콘신 유방암 데이터를 활용한 머신러닝 기초 실습
+  * encar : 엔카 자동차 추천시스템 (크롤링,CF-KNN,CF-MF,surprise)
+  * fifa22 : Kaggle 피파22 선수 데이터 추천시스템(CBF) - 가중평균 새로운 연구 필요
 
-- bike : 따릉이 데이터 (결측치 보간법-interpolate)
-- rice : Kaggle 쌀 데이터 분류, 딥러닝
 
-* Seoul_bike : 서울 자전거 데이터(통계학, 검정, 회귀)
-* encar : 엔카 자동차 추천시스템 (크롤링,CF-KNN,CF-MF,surprise)
-* fifa22 : Kaggle 피파22 선수 데이터 추천시스템(CBF) - 가중평균 새로운 연구 필요
-* 청와대 청원 데이터 : 데이콘 데이터, 형태소 분석
-* hospital : 데이콘 병원 개/폐업 데이터 - 2위 제공 코드 분석
-* hand_action : 데이콘 손 동작 분류
-* abalone_age : 전복 나이 예측(회귀)
+
+* Dacon 학습용 프로젝트
+
+  * wine : 와인 품질 분류 
+
+  * wine_team_project : 와인 품질 분류(팀 간이 프로젝트. 데이콘에 제출하면서 점수 확인)
+
+  - bike : 따릉이 데이터 (결측치 보간법-interpolate)
+
+  * Seoul_bike : 서울 자전거 데이터(통계학, 검정, 회귀)
+
+  * 청와대 청원 데이터 : 데이콘 데이터, 형태소 분석
+
+  * hospital : 데이콘 병원 개/폐업 데이터 - 2위 제공 코드 분석
+
+
+
+* Dacon 경진대회
+
+  * hand_action : 데이콘 손 동작 분류(CNN) - 최종2위 (코드 : https://dacon.io/codeshare/4688)
+
+  * abalone_age : 전복 나이 예측(회귀)
+
+
+
+* Kaggle 프로젝트
+  * rice : Kaggle 쌀 데이터 분류, 딥러닝
