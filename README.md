@@ -16,6 +16,15 @@
 
 
 
+* Dacon 경진대회
+
+  * hand_action : 데이콘 손 동작 분류(CNN) - 최종2위 (코드 : https://dacon.io/codeshare/4688)
+
+
+  * abalone_age : 전복 나이 예측(회귀)
+
+
+
 * Dacon 학습용 프로젝트
 
   * wine : 와인 품질 분류 
@@ -29,14 +38,6 @@
   * 청와대 청원 데이터 : 데이콘 데이터, 형태소 분석
 
   * hospital : 데이콘 병원 개/폐업 데이터 - 2위 제공 코드 분석
-
-
-
-* Dacon 경진대회
-
-  * hand_action : 데이콘 손 동작 분류(CNN) - 최종2위 (코드 : https://dacon.io/codeshare/4688)
-
-  * abalone_age : 전복 나이 예측(회귀)
 
 
 
