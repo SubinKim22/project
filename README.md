@@ -18,10 +18,11 @@
 
 * Dacon 경진대회
 
-  * hand_action : 데이콘 손 동작 분류(CNN) - 최종2위 (코드 : https://dacon.io/codeshare/4688)
-
-
-  * abalone_age : 전복 나이 예측(회귀)
+  * hand_action : 데이콘 손 동작 분류(CNN) - 최종 2위 (코드 : https://dacon.io/codeshare/4688)
+  
+  
+    * abalone_age : 전복 나이 예측(회귀) - 최종 11위(코드 : https://dacon.io/competitions/official/235877/codeshare/4714?page=1&dtype=recent)
+  
 
 
 
