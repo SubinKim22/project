@@ -8,6 +8,10 @@
 
 
 ## Project 내용
+* muticampus Final Project
+  * 22.04.06 ~ 22.05.19
+  * 국어 과목 학습을 위한 NLP 프로젝트 (문서요약, 챗봇)
+
 * 개인 프로젝트
   * danawa : 크롤링 및 시각화
   * machine_learning_breast_cancer : 내장데이터 위스콘신 유방암 데이터를 활용한 머신러닝 기초 실습
